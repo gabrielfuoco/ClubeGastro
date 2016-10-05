@@ -1,13 +1,47 @@
+
+/***************************************************
+
+CONTAINER E BOX SÃO A PARTE CENTRAL DO SITE
+DEIXAR JUNTOS PARA FACILITAR MANUTENÇÃO
+
+***************************************************/
 .container {
-background:#F00;
-width:1000px;
-margin:10px auto;
+border-radius: 25px;
+border: 2px solid #efefef;
+height: 700px;
+background: #f2f2f2;
+margin-left: 15px;
+margin-right: 15px;
+margin-top: 10px;
+padding-left:35px;
+padding-right:35px;
+padding-top:30px;
+padding-bottom:10px;
 }
- 
+
+
+.box {
+margin-left:100px;
+margin-bottom: 20px;
+margin-right: 20px;
+width:20%;
+height:300px;
+}
+
+
+/***************************************************
+***************************************************/
 .container2 {
 background:#F00;
 width:1000px;
 margin:10px auto;
+}
+
+.carrossel {
+	position:relative;
+	background-color:#F00;
+	height: 400px;
+	margin: 20px auto;
 }
 
 .meioContainer {
@@ -17,19 +51,17 @@ height:20px;
 margin:10px auto;
 }
  
+
 .box {
 background-color:#06C;
-width:49%;
+width:30%;
 height:300px;
 float:left;
 color:#FFF;
 font-size:1.4em;
 text-align:center;
-/*
-padding-right:30px;
-padding-bottom:50px;
-padding-left: 10px; */
-margin:5px;
+margin-left:5px;
+margin-right:5px;
 }
 
 .divisoria {
@@ -39,14 +71,6 @@ margin:5px;
 	height:200px;
 	float:left;
 	color:#F00;
-}
-
-.carrossel {
-	position:relative;
-	background-color:#F00;
-	width: 800px;
-	height: 400px;
-	margin: 20px auto;
 }
  
 .titulo {
