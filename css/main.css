@@ -1,0 +1,137 @@
+.container {
+background:#F00;
+width:1000px;
+margin:10px auto;
+}
+ 
+.container2 {
+background:#F00;
+width:1000px;
+margin:10px auto;
+}
+
+.meioContainer {
+background:#Fff;
+width:1000px;
+height:20px;
+margin:10px auto;
+}
+ 
+.box {
+background-color:#06C;
+width:49%;
+height:300px;
+float:left;
+color:#FFF;
+font-size:1.4em;
+text-align:center;
+/*
+padding-right:30px;
+padding-bottom:50px;
+padding-left: 10px; */
+margin:5px;
+}
+
+.divisoria {
+	position: :relative;
+	background-color: #Fff;
+	width:6%;
+	height:200px;
+	float:left;
+	color:#F00;
+}
+
+.carrossel {
+	position:relative;
+	background-color:#F00;
+	width: 800px;
+	height: 400px;
+	margin: 20px auto;
+}
+ 
+.titulo {
+ 
+display:block;
+clear:both;
+text-align:center;
+font-size:1.4;
+height: 100px;
+margin-left: 50;
+margin-right: 50;
+background-color: #999
+}
+
+.tituloMeio {
+ 
+display:block;
+clear:both;
+text-align:center;
+font-size:1.4;
+height: 25px;
+margin-left: 50;
+margin-right: 50;
+background-color: #999
+}
+
+.logo{
+position:relative;
+float:left;
+height:80%;
+margin:1%;
+width:25%;
+background-color: #fff
+}
+.meioBanner{
+position:relative;
+float:left;
+height:80%;
+margin:1%;
+width:50%;
+background-color: #fff;
+color:#f00;
+}
+.busca{
+position:relative;
+float:left;
+height:80%;
+margin:1%;
+width:19%;
+background-color: #fff
+}
+
+.rodape {
+ 
+display:block;
+clear:both;
+text-align:center;
+font-size:1.4;
+height: 50px;
+margin-left: 50;
+margin-right: 50;
+background-color: #999
+}
+.rodapeLogo{
+position:relative;
+float:left;
+height:70%;
+margin:1%;
+width:25%;
+background-color: #fff
+}
+.rodapeMeio{
+position:relative;
+float:left;
+height:70%;
+margin:1%;
+width:50%;
+background-color: #fff;
+color:#f00;
+}
+.rodapeBusca{
+position:relative;
+float:left;
+height:70%;
+margin:1%;
+width:19%;
+background-color: #fff
+}
